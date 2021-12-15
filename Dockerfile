@@ -1,4 +1,4 @@
-FROM node:10-lts
+FROM node:12-lts
 
 ENV PORT 1337
 ENV HOST 0.0.0.0
